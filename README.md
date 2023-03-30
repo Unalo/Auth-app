@@ -1,2 +1,3 @@
-# tso.js
-# tso.js
+# Auth-App
+
+auth-app that uses JWT
